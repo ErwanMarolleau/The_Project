@@ -1,1 +1,1 @@
-Les fichiers persistence.xml, pom etc n'ont pas été retouchés et adaptés!
+Les fichiers persistence.xml, pom etc n'ont pas Ã©tÃ© retouchÃ©s et adaptÃ©s!e
