@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.Compte"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.CompteCourant"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.CompteEpargne"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.Employe"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.Groupe"/>
+<fullyQualifiedTypeName name="javax.ejb.BeforeCompletion"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+<fullyQualifiedTypeName name="org.junit.internal.runners.statements.Fail"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.Operation"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="fr.ajc.ejb.tp.entities.Client"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.Query"/>
+</qualifiedTypeNameHistroy>
